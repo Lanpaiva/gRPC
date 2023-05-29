@@ -19,4 +19,4 @@ message CategoryResponse {
 
 service CategoryService {
  rpc CreateCategory(CreateCategoryRequest) returns (CategoryResponse) {}
-}
+} 
